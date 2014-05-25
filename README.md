@@ -18,9 +18,11 @@ Note: Ensure that you set the following variables before running the script.  Th
 `wd <- "~/work/BIA4/Coursera/GCD/Project/“`
 
 The provided script can be called from the command line:
-‘Rscript run_analysis.R`
+
+`Rscript run_analysis.R`
 
 You can also run it from the R Console:
+
 `source(“run_analysis.R”)`
 
 ### Output

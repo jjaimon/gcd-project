@@ -21,9 +21,9 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ### CodeBook
-Variable Name | Data Type | Description
-——————————————————————————————————————-
-subject | Numeric | ID of the person performed the activity
-ActivityName | Character | Descriptive name for the activity
-ActivityID | Numeric | Numerical ID for the activity
+| Variable Name | Data Type | Description |
+| :———————————— | :———————— | :—————————— |
+| subject | Numeric | ID of the person performed the activity |
+| ActivityName | Character | Descriptive name for the activity |
+| ActivityID | Numeric | Numerical ID for the activity |
 

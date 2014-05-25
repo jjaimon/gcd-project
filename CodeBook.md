@@ -23,7 +23,7 @@ For each record it is provided:
 ### CodeBook
 
 | Variable Name | Data Type | Description |
-| :———————————— | :———————— | :—————————— |
+| :------------ | :-------- | :---------- |
 | subject | Numeric | ID of the person performed the activity |
 | ActivityName | Character | Descriptive name for the activity |
 | ActivityID | Numeric | Numerical ID for the activity |
